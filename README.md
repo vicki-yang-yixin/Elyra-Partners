@@ -1,2 +1,1 @@
-# Elyra-Partners
-Trading Service_Demo
+#Trading Service_Demo
